@@ -1,0 +1,2 @@
+requests
+pyperclip==1.8.0
